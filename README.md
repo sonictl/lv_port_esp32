@@ -48,7 +48,7 @@ Instructions assume you are using the v4.x toolchain, otherwise use the make com
 
 4. Configure LVGL in `Components config->LVGL Configuration`. For monochrome displays use the mono theme and we suggest enabling the `unscii 8` font.
 
-5. Configure your display and/or touch controllers in `Components config->LVGL TFT Display Configuration` and `Components config->LVGL TOUCH Configuration`.
+5. Configure your display and/or touch controllers in `Component config → LVGL ESP Drivers → LVGL TFT Display controller` and `Components config->LVGL TOUCH Configuration`.
 
 6. Store your project configuration.
 
